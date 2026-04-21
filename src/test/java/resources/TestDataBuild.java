@@ -26,7 +26,7 @@ public class TestDataBuild {
 		p.setTypes(myList);
 		Location l =new Location();
 		l.setLat(-38.383494);
-		l.setLng(33.427362);
+		l.setLng(33.427365);
 		p.setLocation(l);
 		return p;
 	}
